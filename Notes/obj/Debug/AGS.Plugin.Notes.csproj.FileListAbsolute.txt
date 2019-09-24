@@ -1,0 +1,19 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Debug\AGS.Plugin.Notes.NotesPane.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Debug\AGS.Plugin.Notes.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Debug\Notes.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Debug\Notes.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Debug\AGS.Types.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Debug\AGS.Types.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Debug\Notes.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Debug\Notes.pdb
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\bin\Debug\AGS.Plugin.Notes.dll
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\bin\Debug\AGS.Plugin.Notes.pdb
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\bin\Debug\AGS.Types.dll
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\bin\Debug\AGS.Types.xml
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Debug\ResolveAssemblyReference.cache
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Debug\AGS.Plugin.Notes.NotesPane.resources
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Debug\AGS.Plugin.Notes.Properties.Resources.resources
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Debug\AGS.Plugin.Notes.csproj.GenerateResource.Cache
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Debug\AGS.Plugin.Notes.dll
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Debug\AGS.Plugin.Notes.pdb

@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Release\AGS.Types.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Release\AGS.Types.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Release\AGS.Plugin.Notes.NotesPane.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Release\AGS.Plugin.Notes.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Release\AGS.Plugin.Notes.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\bin\Release\AGS.Plugin.Notes.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Release\AGS.Plugin.Notes.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Release\AGS.Plugin.Notes.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Notes\Notes\obj\Release\AGS.Plugin.Notes.pdb
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Release\ResolveAssemblyReference.cache
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Release\AGS.Plugin.Notes.NotesPane.resources
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Release\AGS.Plugin.Notes.Properties.Resources.resources
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Release\AGS.Plugin.Notes.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Adventure Game Studio 3.3.0\AGS.Plugin.Notes.dll
+C:\Program Files (x86)\Adventure Game Studio 3.3.0\AGS.Plugin.Notes.pdb
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Release\AGS.Plugin.Notes.dll
+C:\AGS\Kate and Shelly Stick Together\Work\Tools\Source\Notes\Notes\obj\Release\AGS.Plugin.Notes.pdb
